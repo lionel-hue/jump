@@ -3,6 +3,6 @@
   width:100%;
   '>
 <img src="https://i.ibb.co/NV4jyyf/Jump-Canvas-Game.png" style='
-  width:50%;
+  width:10%;
   '>
 </a>
