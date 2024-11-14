@@ -12,8 +12,8 @@
 
 <br>
 
+<h3 align='center'>Ui looks and feel.</h3>
 <p align='center'>
-<p>Ui looks and feel.</p>
 <img src='https://i.ibb.co/N6tx7c5/Screenshot-from-2024-11-14-20-04-10.png' alt=''>  
 </p>
 
