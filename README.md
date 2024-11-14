@@ -4,6 +4,7 @@
 </p>
 
 <p style='font-weight:900;' align='center'>A 2D endless runner game</p>
+<br>
 
 <h3>Objective : Don't die</h3>
 <p align='center'>
@@ -12,7 +13,7 @@
 
 <br>
 
-<h3 align='center'>Ui looks and feel.</h3>
+<h3>Ui looks and feel.</h3>
 <p align='center'>
 <img src='https://i.ibb.co/N6tx7c5/Screenshot-from-2024-11-14-20-04-10.png' alt=''>  
 </p>
