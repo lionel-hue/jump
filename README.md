@@ -10,6 +10,13 @@
   <img src='https://i.ibb.co/CJSh6hr/Screenshot-from-2024-11-14-19-02-33.png' alt=''>
 </p>
 
+<br>
+
+<p align='center'>
+<p>Ui looks and feel.</p>
+<img src='https://i.ibb.co/N6tx7c5/Screenshot-from-2024-11-14-20-04-10.png' alt=''>  
+</p>
+
 <hr>
 
 <h4>How to play</h4>
