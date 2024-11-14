@@ -13,19 +13,10 @@
 <hr>
 
 <h4>How to play</h4>
-$${\color{red}PLEASE NOTE : this game is built for computers only as it won't work correctly on mobile devices.}
+PLEASE NOTE : this game is built for computers only as it won't work correctly on mobile devices.
 <p>1. Download and unzip the Jump_canvas_game file and run in your browser the 'index.html' file</p>
 <p>2. Use the space bar to jump to avoid obstacles.</p>
 <p>3. Use the powerups and boosts to survive longer.</p>
 <hr>
 
 <h2 align='center'>Enjoy!</h2>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
